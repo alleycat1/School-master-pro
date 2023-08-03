@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Social Icons\n"
+"POT-Creation-Date: 2015-07-12 11:28+0545\n"
+"PO-Revision-Date: 2016-04-05 16:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: Access Keys <support@accesspressthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../accesspress-social-icons.php:79
+msgid "Social Icons"
+msgstr "Sociala Ikoner"
+
+#: ../accesspress-social-icons.php:80
+msgid "Add New Set"
+msgstr "Lägg Till En Ny Uppsättning"
+
+#: ../accesspress-social-icons.php:81 ../inc/backend/how-to-use.php:7
+msgid "How to use"
+msgstr "Hur man använder "
+
+#: ../accesspress-social-icons.php:82
+msgid "About"
+msgstr "Om"
+
+#: ../accesspress-social-icons.php:99 ../inc/backend/add-new-set.php:184
+#: ../inc/backend/edit-icon-set.php:211 ../inc/backend/edit-icon-set.php:251
+#: ../inc/backend/theme-icon-set.php:16
+msgid "Icon Preview"
+msgstr "Ikon Förhandsvisning"
+
+#: ../accesspress-social-icons.php:100 ../inc/backend/edit-icon-set.php:284
+#: ../inc/backend/icon-adder.php:147 ../inc/backend/theme-icon-set.php:57
+msgid "Icon Link"
+msgstr "Ikonlänk"
+
+#: ../accesspress-social-icons.php:101 ../inc/backend/edit-icon-set.php:301
+#: ../inc/backend/icon-adder.php:164 ../inc/backend/theme-icon-set.php:73
+msgid "Icon Link Target"
+msgstr "Ikonlänk-mål"
+
+#: ../accesspress-social-icons.php:102
+msgid "Are you sure you want to delete this icon from this list?"
+msgstr "Är du säker på att du vill radera den här ikonen from listan?"
+
+#: ../accesspress-social-icons.php:103
+msgid "Please enter the name for the set"
+msgstr "Var snäll och ange ett namn för uppsättningen"
+
+#: ../accesspress-social-icons.php:104
+msgid "Please add at least one icon in the set"
+msgstr "Var snäll och lägg till minst en ikon i uppsättningen"
+
+#: ../accesspress-social-icons.php:107
+msgid "Are you sure you want to discard the icons added previously?"
+msgstr "Är du säker på att du vill kassera ikonen som laddes upp tidigare? "
+
+#: ../accesspress-social-icons.php:108
+msgid "Collapse All"
+msgstr "Minska Allt"
+
+#: ../accesspress-social-icons.php:109 ../inc/backend/add-new-set.php:191
+#: ../inc/backend/edit-icon-set.php:218
+msgid "Expand All"
+msgstr "Öka Allt"
+
+#: ../inc/backend/about.php:8
+msgid "About Us"
+msgstr "Om Oss"
+
+#: ../inc/backend/add-new-set.php:7
+msgid "Add New Social Icons Set"
+msgstr "Lägg till ett nytt Sociala Ikon uppsättning"
+
+#: ../inc/backend/add-new-set.php:16 ../inc/backend/edit-icon-set.php:38
+msgid "Name of Set"
+msgstr "Namnet på Uppsättningen"
+
+#: ../inc/backend/add-new-set.php:26 ../inc/backend/edit-icon-set.php:48
+msgid "Choose Icon Set type"
+msgstr "Välj Ikonuppsättningstyp"
+
+#: ../inc/backend/add-new-set.php:28 ../inc/backend/edit-icon-set.php:50
+msgid "Choose icon indiviually"
+msgstr "Välj ikon individuellt"
+
+#: ../inc/backend/add-new-set.php:29 ../inc/backend/edit-icon-set.php:51
+msgid "Choose from available themes"
+msgstr "Välj från tillgängliga teman"
+
+#: ../inc/backend/add-new-set.php:41 ../inc/backend/edit-icon-set.php:63
+msgid "Display"
+msgstr "Visa"
+
+#: ../inc/backend/add-new-set.php:43 ../inc/backend/edit-icon-set.php:65
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: ../inc/backend/add-new-set.php:44 ../inc/backend/edit-icon-set.php:66
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: ../inc/backend/add-new-set.php:52 ../inc/backend/edit-icon-set.php:74
+msgid "Number of Rows"
+msgstr "Antal rader"
+
+#: ../inc/backend/add-new-set.php:57 ../inc/backend/edit-icon-set.php:79
+msgid "Please enter the number of rows in number.Default is 1."
+msgstr "Var snäll att ange antal rader i numer.Standardvärdet är 1."
+
+#: ../inc/backend/add-new-set.php:63 ../inc/backend/edit-icon-set.php:85
+msgid "Number of Columns"
+msgstr "Antal kolumner"
+
+#: ../inc/backend/add-new-set.php:68 ../inc/backend/edit-icon-set.php:94
+msgid "Please enter the number of columns in number.Default is 1."
+msgstr "Var snäöö att ange antal kolumer i numer.Standardvärdet är 1."
+
+#: ../inc/backend/add-new-set.php:74 ../inc/backend/edit-icon-set.php:100
+msgid "Margin Between Each Icon"
+msgstr "Marginalen Mellan Varje Ikon"
+
+#: ../inc/backend/add-new-set.php:79 ../inc/backend/edit-icon-set.php:106
+msgid "Please enter the margin for each icon in px."
+msgstr "Skriv in marginalen för varje ikon i px."
+
+#: ../inc/backend/add-new-set.php:86 ../inc/backend/edit-icon-set.php:114
+msgid "Tooltip"
+msgstr "Verktygstips"
+
+#: ../inc/backend/add-new-set.php:88 ../inc/backend/edit-icon-set.php:116
+msgid "Show"
+msgstr "Visa"
+
+#: ../inc/backend/add-new-set.php:89 ../inc/backend/edit-icon-set.php:117
+msgid "Don't show"
+msgstr "Visa inte"
+
+#: ../inc/backend/add-new-set.php:97 ../inc/backend/edit-icon-set.php:125
+msgid "Tooltip Bg Color"
+msgstr "Vertygstips Bg Färg"
+
+#: ../inc/backend/add-new-set.php:105 ../inc/backend/edit-icon-set.php:133
+msgid "Tooltip Text Color"
+msgstr "Textfärg För Verktygstips"
+
+#: ../inc/backend/add-new-set.php:113 ../inc/backend/edit-icon-set.php:141
+msgid "Tooltip Position"
+msgstr "Placering Av Verktygstips:"
+
+#: ../inc/backend/add-new-set.php:116 ../inc/backend/edit-icon-set.php:144
+msgid "Top"
+msgstr "Överst"
+
+#: ../inc/backend/add-new-set.php:117 ../inc/backend/edit-icon-set.php:145
+msgid "Right"
+msgstr "Höger"
+
+#: ../inc/backend/add-new-set.php:118 ../inc/backend/edit-icon-set.php:146
+msgid "Bottom"
+msgstr "Botten"
+
+#: ../inc/backend/add-new-set.php:119 ../inc/backend/edit-icon-set.php:147
+msgid "Left"
+msgstr "Vänster"
+
+#: ../inc/backend/add-new-set.php:128
+msgid "Icons Hover Animation"
+msgstr "Ikonsvävande Animation"
+
+#: ../inc/backend/add-new-set.php:131 ../inc/backend/edit-icon-set.php:159
+msgid "No Animation"
+msgstr "Ingen Animation"
+
+#: ../inc/backend/add-new-set.php:162 ../inc/backend/edit-icon-set.php:190
+msgid "Opacity on Non Hover"
+msgstr "Opacitiet på Icke Svävande"
+
+#: ../inc/backend/add-new-set.php:189 ../inc/backend/edit-icon-set.php:216
+msgid "Icon Lists"
+msgstr "Ikon Listor"
+
+#: ../inc/backend/add-new-set.php:194 ../inc/backend/edit-icon-set.php:221
+msgid "Empty List"
+msgstr "Tom Lista"
+
+#: ../inc/backend/add-new-set.php:195 ../inc/backend/edit-icon-set.php:222
+msgid "Each Icon will only show up in the frontend if icon link is not empty"
+msgstr "Varje ikon kommer bara dyka upp i frontend om ikonens länk inte är tom"
+
+#: ../inc/backend/add-new-set.php:207 ../inc/backend/edit-icon-set.php:368
+msgid "Save icon set"
+msgstr "Spara Ikonuppsättning"
+
+#: ../inc/backend/copy-icon-set.php:60
+msgid "Icon Set Copied Successfully"
+msgstr "Ikonuppsättning Har Kopierats Framgångsrikt"
+
+#: ../inc/backend/delete-icon-set.php:7
+msgid "Icon set deleted successfully."
+msgstr "Ikonuppsättningen Har Raderats Framgångsrikt "
+
+#: ../inc/backend/edit-icon-set.php:28
+msgid "Edit Social Icons Set"
+msgstr "Redigera Sociala ikonenuppsättnigen"
+
+#: ../inc/backend/edit-icon-set.php:156
+msgid "Icons Animation"
+msgstr "Ikon Animation"
+
+#: ../inc/backend/edit-icon-set.php:256 ../inc/backend/icon-adder.php:6
+#: ../inc/backend/theme-icon-set.php:21
+msgid "Icon Title"
+msgstr "Ikon Titel"
+
+#: ../inc/backend/edit-icon-set.php:264 ../inc/backend/icon-adder.php:30
+#: ../inc/backend/theme-icon-set.php:37
+msgid "Icon Width"
+msgstr "Ikon Bredd"
+
+#: ../inc/backend/edit-icon-set.php:269 ../inc/backend/theme-icon-set.php:42
+msgid "Please enter the width for the icon in px."
+msgstr "Var snäll att ange bredden för ikonen i px."
+
+#: ../inc/backend/edit-icon-set.php:275 ../inc/backend/icon-adder.php:38
+#: ../inc/backend/theme-icon-set.php:48
+msgid "Icon Height"
+msgstr "Ikon Höjd"
+
+#: ../inc/backend/edit-icon-set.php:279 ../inc/backend/theme-icon-set.php:52
+msgid "Please enter the height for the icon in px."
+msgstr "Var snäll att ange höjden på ikonen i px."
+
+#: ../inc/backend/edit-icon-set.php:293 ../inc/backend/icon-adder.php:156
+#: ../inc/backend/theme-icon-set.php:65
+msgid "Tooltip Text"
+msgstr "Verktygstipstext"
+
+#: ../inc/backend/icon-adder.php:8
+msgid "Please enter the icon title"
+msgstr "Var snäll att ange en ikonen en titel"
+
+#: ../inc/backend/icon-adder.php:17
+msgid "Icon Image"
+msgstr "Ikon Bild"
+
+#: ../inc/backend/icon-adder.php:19
+msgid "Please upload the icon image"
+msgstr "Var snäll att ladda upp en ikon bild"
+
+#: ../inc/backend/icon-adder.php:20
+msgid "Pre available icons"
+msgstr "Tillgängliga Ikoner"
+
+#: ../inc/backend/icon-adder.php:53
+msgid "Border Style"
+msgstr "Ramstil"
+
+#: ../inc/backend/icon-adder.php:72
+msgid "Border Spacing"
+msgstr "Ramavstånd"
+
+#: ../inc/backend/icon-adder.php:74 ../inc/backend/icon-adder.php:82
+msgid "eg. 2px"
+msgstr "t.ex. 2px"
+
+#: ../inc/backend/icon-adder.php:80
+msgid "Border Thickness"
+msgstr "Ramtjocklek"
+
+#: ../inc/backend/icon-adder.php:88
+msgid "Border Color"
+msgstr "Ramfärg"
+
+#: ../inc/backend/icon-adder.php:99
+msgid "Shadow"
+msgstr "Skugga"
+
+# No translation, if translated litterally no one will understand
+#: ../inc/backend/icon-adder.php:110
+msgid "Offset X"
+msgstr "Offset X"
+
+# No translation, if translated litterally no one will understand
+#: ../inc/backend/icon-adder.php:118
+msgid "Offset Y"
+msgstr "Offset Y"
+
+#: ../inc/backend/icon-adder.php:126
+msgid "Blur"
+msgstr "Oskärpa"
+
+#: ../inc/backend/icon-adder.php:134
+msgid "Shadow Color"
+msgstr "Skuggans färg"
+
+#: ../inc/backend/icon-adder.php:149
+msgid "Please enter the icon link"
+msgstr "Var snäll att ange ikonlänken"
+
+#: ../inc/backend/icon-themes.php:5
+msgid "Available Icon Themes"
+msgstr "Tillgängliga Ikon Teman"
+
+#: ../inc/backend/main-page.php:31 ../inc/backend/main-page.php:43
+msgid "Title"
+msgstr "Titel"
+
+#: ../inc/backend/main-page.php:34 ../inc/backend/main-page.php:44
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../inc/backend/main-page.php:37 ../inc/backend/main-page.php:46
+msgid "Template Shortcode"
+msgstr "Mallen kortkod"
+
+#: ../inc/backend/main-page.php:74
+msgid "Are you sure you want to copy this icon set?"
+msgstr "Är du säker på att du vill copier den här ikonuppsättningnen?"
+
+#: ../inc/backend/main-page.php:75
+msgid "Are you sure you want to delete this icon set?"
+msgstr "Är du säker på att du vill radera den här ikonuppsättningnen?"
+
+#: ../inc/backend/main-page.php:86
+msgid "Icon sets not added yet"
+msgstr "Ikonuppsättningar har inte lagt till ännu"
+
+#: ../inc/backend/panel-head.php:5 ../inc/backend/panel-head.php:29
+#: ../inc/backend/widgets.php:14
+msgid "AccessPress Social Icons"
+msgstr "AccessPress Social Icons"
+
+#: ../inc/backend/save-set.php:167
+msgid "Icon Set Updated Successfully"
+msgstr "Ikonuppsättning Har Uppdaterats Framgångsrikt"
+
+#: ../inc/backend/save-set.php:200
+msgid "Icon Set Saved Successfully"
+msgstr "Ikonuppsättning Har Sparats Framgångsrikt"
+
+#: ../inc/backend/theme-icon-set.php:28
+msgid "Icon Background Color"
+msgstr "Ikonens Backgrundsfärg"
+
+#: ../inc/backend/widgets.php:15
+msgid "AccessPress Social Icon Widget"
+msgstr "AccessPress Social Ikons Widget"
+
+#: ../inc/backend/widgets.php:69
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../inc/backend/widgets.php:73
+msgid "Icon set"
+msgstr "Ikonuppsättning:"
+
+#: ../inc/backend/widgets.php:75
+msgid "Choose Icon Set"
+msgstr "Välj Ikonuppsättning. "

@@ -1,0 +1,111 @@
+ul.ap-font-group li i {
+    width: 34px;
+    font-size: 27px;
+    padding: 5px;
+}
+ul.ap-font-group li {
+    display: inline-block;
+}
+ul.ap-font-group {
+    height: 200px;
+    overflow-x: scroll;
+}
+.fa_preview {
+    text-align: center;
+}
+i#fa_prev {
+    font-size: 59px;
+    text-align: center;
+}
+/**
+ * Upgred To Pro
+*/
+.control-section-enlighten-pro h3.accordion-section-title {
+    background: #226084 !important;
+    color: #FFF !important;
+}
+.control-section-enlighten-pro .accordion-section-title .button {
+    margin-top: -4px;
+    margin-left: 8px;
+    border: none;
+    color: #fff;
+    background: #28c503;
+    box-shadow: none;
+}
+#customize-control-enlighten_theme_info a {
+    background: #2e8ecb;
+    color: #fff;
+    display: block;
+    padding: 7px 0;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    text-decoration: none;
+}
+#customize-control-enlighten_theme_info a:hover{
+    color: #fff;
+    background: #2380BA;
+}
+#customize-control-enlighten_theme_info a.buynow {
+    padding: 0;
+}
+
+.upgrade-pro{
+   background-color: #e24545;
+   color: #FFF !important;
+   font-size: 12px;
+   padding: 5px;
+   line-height: 1;
+   display: block;
+   margin-top: 6px;
+   text-align: center;
+   text-decoration: none;
+}
+
+.sticky_info_row .button{
+   width: 100%;
+   margin: 2px 0;
+   text-align: center;
+}
+
+#customize-control-theme_info_more_theme span,
+#customize-control-theme_info_pro_theme span,
+#customize-control-theme_info_useful_plugins span{
+ width: 100%;
+ display: block;
+ text-align: center;
+}
+
+.admin-pro-feature-list li{
+ 
+    border-bottom: 1px solid #DBDBDB;
+    margin: 0;
+    padding: 10px 0px;
+    line-height: 1;
+}
+.admin-pro-feature-list li:before{
+     content: "\f345";
+    font: 400 20px/1 dashicons;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 5px;
+ 
+ }
+.admin-pro-feature-list span{
+     display: inline-block;
+    width: 90%;
+    vertical-align: top;
+    line-height: 1.5;
+}
+.admin-pro-feature-list{
+    margin: 0 5px;
+}
+.buynow{
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.buynow.theme-link{
+    margin-bottom: 9px;
+}
